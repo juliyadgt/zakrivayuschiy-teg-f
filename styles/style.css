@@ -115,8 +115,8 @@
   object-position: center;
 }
 
-.contrast__filter {
-  filter: contrast(80%);
+.multifilter {
+  filter: contrast(80%) sepia(40);
 }
 
 .blur__filter {
